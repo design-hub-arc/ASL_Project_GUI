@@ -3,7 +3,7 @@ Downloadable Python GUI for use of the ASL neural net
 ASL PROJECT (PYTHON DOWNLOADABLE) WINDOWS INSTRUCTIONS
 Python version 3.8
 
-files you need:
+files you need:                                       <br>
 -'model.hdf5'       trained model (zipped as 'model') <br>
 -'DELETE'           test images folder (zipped)       <br>
 -'asl_PythonGUI.py' GUI program                       <br>
