@@ -4,9 +4,9 @@ ASL PROJECT (PYTHON DOWNLOADABLE) WINDOWS INSTRUCTIONS
 Python version 3.8
 
 files you need:                                       <br>
--'model.hdf5'       trained model (zipped as 'model') <br>
--'DELETE'           test images folder (zipped)       <br>
--'asl_PythonGUI.py' GUI program                       <br>
+-'model.hdf5'       trained model (zipped as 'model') (not in this repo)<br>
+-'DELETE'           test images folder (zipped)       (not in this repo)<br>
+-'asl_PythonGUI.py' GUI program                       (in this repo)<br>
 
 	* Install Python3 with PIP, and GIT if not already installed.
 		- https://www.python.org/downloads/
