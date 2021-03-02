@@ -1,12 +1,12 @@
 # ASL_Project_GUI
-Downloadable Python GUI for use of the ASL neural net
-ASL PROJECT (PYTHON DOWNLOADABLE) WINDOWS INSTRUCTIONS
-Python version 3.8
+Downloadable Python GUI for use of the ASL neural net  <br>
+ASL PROJECT (PYTHON DOWNLOADABLE) WINDOWS INSTRUCTIONS <br>
+Python version 3.8                                     <br>
 
-files you need:                                       <br>
+files you need:                                                         <br>
 -'model.hdf5'       trained model (zipped as 'model') (not in this repo)<br>
 -'DELETE'           test images folder (zipped)       (not in this repo)<br>
--'asl_PythonGUI.py' GUI program                       (in this repo)<br>
+-'asl_PythonGUI.py' GUI program                       (in this repo)    <br>
 
 	* Install Python3 with PIP, and GIT if not already installed.
 		- https://www.python.org/downloads/
