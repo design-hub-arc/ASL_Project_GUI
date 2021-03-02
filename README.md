@@ -45,5 +45,6 @@ NOTE: If using a GPU, I believe you will need the CUDA toolkit..
 
 	* Finally, to test that it runs and produces a PDF, go into the folder ASL-NET and run asl_PythonGUI.py
 		- give the PDF a name and select the DELETE folder for the images to process
+		- choose a folder to store the results PDF
 		- click grade
-		- once the program finishes, there should be a PDF of results with the name you gave it in the folder ASL-NET
+		- once the program finishes, there should be a PDF of results with the name you gave it in the folder you saved it to
