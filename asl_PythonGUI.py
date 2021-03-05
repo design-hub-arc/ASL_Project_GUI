@@ -144,7 +144,7 @@ class GUI(QMainWindow):
                   '..\Model.hdf5 ' + 
                   self.down_to + SLASH + self.line.text() + '.pdf')
         # quit program when done processing
-        quit()
+        sys.exit()
 
 
     def display_info(self):
